@@ -44,7 +44,7 @@ Não são muitos passos para utilizar essa solução, mas é importante prestar 
 <p><b>1a-</b> Não tenho o <b>SetupOrion</b> na minha VPS:</p>
 
 ```
-sudo apt upgrade -y && sudo apt update && sudo apt install -y git && git clone https://github.com/jajacaraujo/install-orion.git && cd SetupOrion && sudo chmod +x install.sh && ./install.sh
+sudo apt upgrade -y && sudo apt update && sudo apt install -y git && git clone https://github.com/oriondesign2015/SetupOrion.git && cd SetupOrion && sudo chmod +x install.sh && ./install.sh
 ```
 
 <p><b>1b-</b> Já tenho <b>SetupOrion</b> na minha VPS (para quem quer instalar outra aplicação):</p>
